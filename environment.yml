@@ -1,0 +1,14 @@
+name: UHI_predictor
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - pandas
+  - matplotlib
+  - numpy
+  - geopandas
+  - folium
+  - ipython
+  - branca
+  - pip
