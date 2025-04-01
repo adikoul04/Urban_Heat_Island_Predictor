@@ -40,7 +40,8 @@ If you need to add new dependencies to the project:
 - numpy
 - geopandas
 - folium
-- IPython
+- IPython 
+- Scipy
 
 ### Note
 The `.conda` folder is specific to your local setup and should not be committed to the repository.
