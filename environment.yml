@@ -8,8 +8,11 @@ dependencies:
   - matplotlib
   - numpy
   - geopandas
+  - scipy
+  - seaborn
+  - openpyxl
+  - datetime
   - folium
   - ipython
   - branca
   - pip
-  - scipy

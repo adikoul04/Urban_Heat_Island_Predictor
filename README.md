@@ -35,13 +35,17 @@ If you need to add new dependencies to the project:
 4. Commit your changes to the repository
 
 ### Current Dependencies
-- pandas
-- matplotlib
-- numpy
-- geopandas
-- folium
-- IPython 
-- Scipy
+  - pandas
+  - matplotlib
+  - numpy
+  - geopandas
+  - scipy
+  - seaborn
+  - openpyxl
+  - datetime
+  - folium
+  - ipython
+  - branca
 
 ### Note
 The `.conda` folder is specific to your local setup and should not be committed to the repository.
