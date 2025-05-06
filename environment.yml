@@ -10,8 +10,8 @@ dependencies:
   - geopandas
   - scipy
   - seaborn
+  - scikit-learn  
   - openpyxl
-  - datetime
   - folium
   - ipython
   - branca
